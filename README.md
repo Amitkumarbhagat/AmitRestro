@@ -6,3 +6,14 @@ Microsoft Azure is employed.In the future, I plan to create an administrative pa
 The project encompasses both client and admin interfaces. The admin panel allows dynamic addition or removal of users, 
 as well as the ability to cancel, reject, approve, or accept orders. 
 Admins can also add food items and manage restaurant details. The authentication/login process is implemented via OTP.
+
+we had implemented three different database the first database is something like 
+
+1).
+![image](https://github.com/Amitkumarbhagat/AmitRestro/assets/78423707/34553c7c-3daa-4cd9-bd35-959fbbc3bb79)
+
+
+
+2). ................
+
+3). Database will upload asap
