@@ -171,7 +171,7 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are AmitRestro
               </h2>
             </div>
             <p>
